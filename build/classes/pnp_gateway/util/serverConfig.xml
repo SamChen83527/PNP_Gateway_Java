@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server_config>
+	<configs>
+		<!-- COM Port name -->
+		<comport_name id="comport_name">COM81</comport_name>
+                <gateway_url id="gateway_url">http://140.115.110.69:8080/PNPGateway/service</gateway_url>
+                <tasking_service>http://140.115.110.69:8080/sta_taskingservice/STA/v1.0</tasking_service>
+	</configs>
+</server_config>
